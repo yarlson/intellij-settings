@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="ph" type="PLAIN_TEXT" />
+      <mapping ext="ssh" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

@@ -5,6 +5,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="crontab-dev" type="PLAIN_TEXT" />
+      <mapping pattern="ws" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="ph" type="PLAIN_TEXT" />
       <mapping ext="ssh" type="PLAIN_TEXT" />

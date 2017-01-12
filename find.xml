@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../services/api/app/controllers - [ChipAPI]'" />
-    <option name="defaultScopeName" value="Directory '.../services/api/app/controllers - [ChipAPI]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../services/api/app/controllers - [ChipAPI]'" />
+    <option name="customScope" value="Directory '.../services/api/app/managers - [ChipAPI]'" />
+    <option name="defaultScopeName" value="Directory '.../services/api/app/managers - [ChipAPI]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../services/api/app/managers - [ChipAPI]'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
